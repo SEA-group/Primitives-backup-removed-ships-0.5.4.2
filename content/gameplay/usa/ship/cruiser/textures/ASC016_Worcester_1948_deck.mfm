@@ -1,0 +1,17 @@
+<ASC016_Worcester_1948_deck.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/usa/ship/cruiser/textures/ASC016_Worcester_1948_deck_ao.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/gameplay/usa/ship/cruiser/textures/ASC016_Worcester_1948_deck_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/usa/ship/cruiser/textures/ASC016_Worcester_1948_deck_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/usa/ship/cruiser/textures/ASC016_Worcester_1948_deck_a.tga	</Texture>
+	</property>
+</ASC016_Worcester_1948_deck.mfm>

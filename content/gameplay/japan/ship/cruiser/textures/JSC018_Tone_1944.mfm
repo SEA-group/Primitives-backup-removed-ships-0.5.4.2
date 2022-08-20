@@ -1,0 +1,17 @@
+<JSC018_Tone_1944.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/japan/ship/cruiser/textures/JSC018_Tone_1944_ao.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/gameplay/japan/ship/cruiser/textures/JSC018_Tone_1944_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/japan/ship/cruiser/textures/JSC018_Tone_1944_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/japan/ship/cruiser/textures/JSC018_Tone_1944_mg.tga	</Texture>
+	</property>
+</JSC018_Tone_1944.mfm>

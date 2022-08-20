@@ -1,0 +1,14 @@
+<ASC019_Burlington_1944_Bow_lod1.model>
+	<exporter>	1.6	</exporter>
+	<metaData>
+		<created_by>	e_poterpeev	</created_by>
+		<created_on>	1436511875	</created_on>
+		<modified_by>	a_ivanof	</modified_by>
+		<modified_on>	1438091011	</modified_on>
+	</metaData>
+	<parent>	content/gameplay/usa/ship/cruiser/ASC019_Burlington_1944/lods/ASC019_Burlington_1944_Bow_lod2	</parent>
+	<extent>	15.000000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/usa/ship/cruiser/ASC019_Burlington_1944/lods/ASC019_Burlington_1944_Bow_lod1	</nodefullVisual>
+</ASC019_Burlington_1944_Bow_lod1.model>

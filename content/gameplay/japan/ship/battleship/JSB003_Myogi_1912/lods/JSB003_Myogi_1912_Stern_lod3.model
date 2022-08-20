@@ -1,0 +1,12 @@
+<JSB003_Myogi_1912_Stern_lod3.model>
+	<exporter>	1.6	</exporter>
+	<metaData>
+		<created_by>	a_gruzdev	</created_by>
+		<created_on>	1423144271	</created_on>
+		<modified_by>	a_gruzdev	</modified_by>
+		<modified_on>	1434964081	</modified_on>
+	</metaData>
+	<extent>	400.000000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	content/gameplay/japan/ship/battleship/JSB003_Myogi_1912/lods/JSB003_Myogi_1912_Stern_lod3	</nodefullVisual>
+</JSB003_Myogi_1912_Stern_lod3.model>

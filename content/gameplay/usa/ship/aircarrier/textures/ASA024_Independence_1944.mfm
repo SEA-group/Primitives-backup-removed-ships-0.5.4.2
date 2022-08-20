@@ -1,0 +1,17 @@
+<ASA024_Independence_1944.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/usa/ship/aircarrier/textures/ASA024_Independence_1944_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/usa/ship/aircarrier/textures/ASA024_Independence_1944_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/gameplay/usa/ship/aircarrier/textures/ASA024_Independence_1944_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/usa/ship/aircarrier/textures/ASA024_Independence_1944_ao.tga	</Texture>
+	</property>
+</ASA024_Independence_1944.mfm>

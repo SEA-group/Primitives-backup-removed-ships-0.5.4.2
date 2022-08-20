@@ -1,0 +1,222 @@
+<JSC009_Mogami_1935_Stern_ports.visual>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Stern_ports	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_JGM_5	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.401201 -4.051073 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_nation	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.999556 -0.029791 0.000000	</row1>
+					<row2>	0.000000 0.029791 0.999556 0.000000	</row2>
+					<row3>	0.001022 0.795112 -6.621556 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTC0192	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000002 0.298414 -5.977186	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTC0193	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000002 0.377067 -5.728941	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0281	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.258840 0.342452 -4.152527	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0278	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000057 0.327311 -5.504639	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0276	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.063517 0.338306 -4.534170	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0277	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.002079 0.341355 -5.037964	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0279	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.021822 0.341982 -5.055198	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM111_Deck_Hatch_13	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.022771 0.344819 -4.569626 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM044_After_Capstan	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.066700 0.336705 -5.592625 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM063_Sky_Light	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.333868 -6.256092 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM004_Barbette_Out	</identifier>
+				<transform>
+					<row0>	2.070000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.973772 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 2.070000 0.000000	</row2>
+					<row3>	0.000000 0.399180 -4.051073 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.001051 0.509731 -6.618696 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM001_Propeller3_L	</identifier>
+				<transform>
+					<row0>	0.900000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.900000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.900000 0.000000	</row2>
+					<row3>	-0.189992 -0.269022 -5.728574 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM001_Propeller3_L_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.900000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.900000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.900000 0.000000	</row2>
+					<row3>	-0.462073 -0.263803 -4.960346 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM032_Propeller3_R	</identifier>
+				<transform>
+					<row0>	0.900000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.900000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.900000 0.000000	</row2>
+					<row3>	0.189962 -0.269001 -5.728596 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM032_Propeller3_R_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.900000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.900000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.900000 0.000000	</row2>
+					<row3>	0.462098 -0.263798 -4.960346 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM170_CraneL	</identifier>
+				<transform>
+					<row0>	0.990268 0.000000 0.139173 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.139173 0.000000 0.990268 0.000000	</row2>
+					<row3>	-0.329877 0.308299 -5.852401 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM171_CraneR	</identifier>
+				<transform>
+					<row0>	0.990268 0.000000 -0.139173 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.139173 0.000000 0.990268 0.000000	</row2>
+					<row3>	0.329898 0.308287 -5.852391 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0280	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.340877 -4.275420	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Fire_Burn_4	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 -5.026690 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+</JSC009_Mogami_1935_Stern_ports.visual>

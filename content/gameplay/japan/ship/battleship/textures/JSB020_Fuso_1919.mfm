@@ -1,0 +1,17 @@
+<JSB020_Fuso_1919.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB020_Fuso_1919_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB020_Fuso_1919_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB020_Fuso_1919_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB020_Fuso_1919_ao.tga	</Texture>
+	</property>
+</JSB020_Fuso_1919.mfm>

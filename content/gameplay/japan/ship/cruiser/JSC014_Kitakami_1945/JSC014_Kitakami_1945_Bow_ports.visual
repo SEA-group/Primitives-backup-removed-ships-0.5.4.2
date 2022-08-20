@@ -1,0 +1,141 @@
+<JSC014_Kitakami_1945_Bow_ports.visual>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Bow_ports	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_JGM_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.448335 4.040835 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGM_2	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.444097 3.651922 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0451	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.240491 0.421242 3.817225	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM011_Fire_Fighting_Gear	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.458984 4.605519 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTC0243	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.442460 5.020841	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0452	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000001 0.455819 4.537856	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0453	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.467260 5.140698	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM079_Roller_Fairled	</identifier>
+				<transform>
+					<row0>	-0.271517 -0.014091 -1.028677 0.000000	</row0>
+					<row1>	-0.000186 1.063901 -0.014524 0.000000	</row1>
+					<row2>	1.028773 -0.003527 -0.271494 0.000000	</row2>
+					<row3>	-0.231049 0.466166 4.886042 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTC0450	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000007 0.450277 3.588058	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM310_Chrysanthemum_full	</identifier>
+				<transform>
+					<row0>	0.897247 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.878768 0.181161 0.000000	</row1>
+					<row2>	0.000000 -0.181161 0.878768 0.000000	</row2>
+					<row3>	0.000000 0.474909 5.396719 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM062_Deck_Hatch_11	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.133514 0.451750 4.278125 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM033_Roller_Fairled	</identifier>
+				<transform>
+					<row0>	0.264255 -0.023069 -1.030188 0.000000	</row0>
+					<row1>	0.006082 1.063541 -0.022256 0.000000	</row1>
+					<row2>	1.030429 -0.000361 0.264325 0.000000	</row2>
+					<row3>	0.231053 0.466198 4.886033 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Fire_Burn_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.013097 4.294049 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+</JSC014_Kitakami_1945_Bow_ports.visual>

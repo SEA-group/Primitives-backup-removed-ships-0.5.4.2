@@ -1,0 +1,17 @@
+<JSB004_Kongo_1913.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	normalMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB004_Kongo_1913_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB004_Kongo_1913_mg.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB004_Kongo_1913_ao.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB004_Kongo_1913_a.tga	</Texture>
+	</property>
+</JSB004_Kongo_1913.mfm>

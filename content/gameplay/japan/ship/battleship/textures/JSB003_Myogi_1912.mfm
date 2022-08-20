@@ -1,0 +1,17 @@
+<JSB003_Myogi_1912.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB003_Myogi_1912_ao.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB003_Myogi_1912_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB003_Myogi_1912_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB003_Myogi_1912_a.tga	</Texture>
+	</property>
+</JSB003_Myogi_1912.mfm>

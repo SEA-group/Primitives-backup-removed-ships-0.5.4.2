@@ -1,0 +1,672 @@
+<JSB035_Myogi_1919_MidFront_ports.visual>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	MidFront_ports	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_JF_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.926185 3.117968 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGM_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.571129 3.835203 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGS_9	</identifier>
+				<transform>
+					<row0>	0.866025 0.000000 0.500000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.500000 0.000000 0.866025 0.000000	</row2>
+					<row3>	-0.833550 0.357845 0.487510 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGS_7	</identifier>
+				<transform>
+					<row0>	0.866025 0.000000 0.500000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.500000 0.000000 0.866025 0.000000	</row2>
+					<row3>	-0.809288 0.357845 1.282320 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGS_5	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.751390 0.357845 2.063410 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGS_8	</identifier>
+				<transform>
+					<row0>	0.866025 0.000000 -0.500000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.500000 0.000000 0.866025 0.000000	</row2>
+					<row3>	0.809288 0.357845 1.282320 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGS_10	</identifier>
+				<transform>
+					<row0>	0.866025 0.000000 -0.500000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.500000 0.000000 0.866025 0.000000	</row2>
+					<row3>	0.833550 0.357845 0.487510 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGS_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.508908 0.357845 2.811208 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGS_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.508908 0.357845 2.811208 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGS_6	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.748084 0.357845 2.063410 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGS_3	</identifier>
+				<transform>
+					<row0>	0.707107 0.000000 0.707107 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.707107 0.000000 0.707107 0.000000	</row2>
+					<row3>	-0.647523 0.478338 2.630806 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGS_4	</identifier>
+				<transform>
+					<row0>	0.707107 0.000000 -0.707107 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.707107 0.000000 0.707107 0.000000	</row2>
+					<row3>	0.649039 0.478306 2.630767 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_2	</identifier>
+				<transform>
+					<row0>	0.984384 0.174441 -0.023639 0.000000	</row0>
+					<row1>	-0.174908 0.984394 -0.019370 0.000000	</row1>
+					<row2>	0.019891 0.023203 0.999533 0.000000	</row2>
+					<row3>	-0.630561 2.305836 2.713562 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_4	</identifier>
+				<transform>
+					<row0>	0.996718 0.080303 -0.010225 0.000000	</row0>
+					<row1>	-0.080493 0.996560 -0.019711 0.000000	</row1>
+					<row2>	0.008607 0.020470 0.999753 0.000000	</row2>
+					<row3>	-0.432702 2.306966 2.713262 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_3	</identifier>
+				<transform>
+					<row0>	0.996708 -0.080280 0.011355 0.000000	</row0>
+					<row1>	0.080493 0.996560 -0.019711 0.000000	</row1>
+					<row2>	-0.009733 0.020560 0.999741 0.000000	</row2>
+					<row3>	0.432702 2.306966 2.713262 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_1	</identifier>
+				<transform>
+					<row0>	0.984596 -0.174463 0.011517 0.000000	</row0>
+					<row1>	0.174662 0.984436 -0.019487 0.000000	</row1>
+					<row2>	-0.007938 0.021198 0.999744 0.000000	</row2>
+					<row3>	0.630191 2.305836 2.713379 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_house	</identifier>
+				<transform>
+					<row0>	0.996332 0.085529 -0.002599 0.000000	</row0>
+					<row1>	-0.085529 0.994490 -0.060611 0.000000	</row1>
+					<row2>	-0.002599 0.060611 0.998158 0.000000	</row2>
+					<row3>	-0.482593 2.938945 2.610566 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_courtesy	</identifier>
+				<transform>
+					<row0>	0.996345 -0.085381 0.002592 0.000000	</row0>
+					<row1>	0.085381 0.994507 -0.060539 0.000000	</row1>
+					<row2>	0.002592 0.060539 0.998162 0.000000	</row2>
+					<row3>	0.483416 2.939153 2.610596 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_rank	</identifier>
+				<transform>
+					<row0>	0.999747 -0.022452 0.000989 0.000000	</row0>
+					<row1>	0.022452 0.995873 -0.087934 0.000000	</row1>
+					<row2>	0.000989 0.087934 0.996126 0.000000	</row2>
+					<row3>	-0.000727 3.417721 2.422057 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1019	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.590065 3.153864	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB0998	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.014771 0.474973 2.065091	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1007	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000030 1.274610 2.807498	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0350	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.019452 0.393122 2.461398	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1006	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.478752 4.182770	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1012	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000265 0.475305 1.567159	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1004	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000003 0.696176 3.270362	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1021	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.003396 1.286506 2.817902	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1010	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 2.434296 2.376338	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1013	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.841057 2.284126	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1018	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.033845 0.537470 3.122275	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB0999	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000013 0.554453 1.532093	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM090_Signal_Platform_2	</identifier>
+				<transform>
+					<row0>	0.850000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 3.273866 2.592071 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM022_Ventilators_6	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.440968 0.474332 0.733664 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1005	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000399 0.477551 1.828491	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1008	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.006263 0.925697 2.831208	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM004_Barbette_Out	</identifier>
+				<transform>
+					<row0>	2.780162 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.500710 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 2.780162 0.000000	</row2>
+					<row3>	0.000000 0.564006 3.835403 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0353	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000509 0.478915 2.506723	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1017	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000532 0.477551 0.652972	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1009	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000010 0.487255 1.477091	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1020	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000960 0.625505 2.011499	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1002	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.004178 0.537448 2.835161	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1003	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.017145 0.477925 2.587751	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0348	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000153 0.330292 3.324737	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0351	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.001141 0.537251 2.539602	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1014	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.697032 3.057175	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1001	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000019 3.072296 2.604711	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0354	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000007 0.525956 2.215792	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1016	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000136 0.477551 2.184325	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0349	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.042966 0.478445 2.897393	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM189_Compass_Binnacle	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.925459 2.878013 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0352	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.584741 2.780915	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1015	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000540 0.477551 0.959801	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB0996	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.168056 2.978605	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM164_Turning_Indicator	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.049112 0.925062 2.857963 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1011	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.671403 2.722698	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB0997	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.000004 0.347144 3.339599	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM030_Swab_Rack_2	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	-0.084205 0.473496 2.734633 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM009_Signal_Lamp	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000350 2.217123 2.751614 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1000	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000117 0.475816 3.155975	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM109_Deck_Hatch_11	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.118453 0.473805 3.346158 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM030_Wind_Direction	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000069 3.930736 2.570452 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM093_Running_Lights_L	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.441544 0.680073 2.804868 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM023_Accommodation_Ladder_Closed	</identifier>
+				<transform>
+					<row0>	-0.038855 -0.999138 0.014601 0.000000	</row0>
+					<row1>	-0.865959 0.040960 0.498435 0.000000	</row1>
+					<row2>	-0.498603 0.006723 -0.866804 0.000000	</row2>
+					<row3>	-0.710709 0.258521 2.677715 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM057_Deck_Hatch_6	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 1.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	-0.000143 0.477551 1.811351 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM158_Main_Wheel	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.926034 2.847362 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM092_Running_Lights_R	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.444638 0.680068 2.804847 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM056_Ships_bell	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000534 0.958634 2.623273 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM035_Accommodation_Ladder_Closed_L	</identifier>
+				<transform>
+					<row0>	-0.038855 0.999138 -0.014608 0.000000	</row0>
+					<row1>	0.865959 0.040963 0.498435 0.000000	</row1>
+					<row2>	0.498603 0.006717 -0.866804 0.000000	</row2>
+					<row3>	0.710688 0.258529 2.677738 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Fire_Burn_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.020148 3.028741 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Smoke_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.562502 2.186713 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Smoke_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.562654 0.940684 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_NoseWave_Speed	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+</JSB035_Myogi_1919_MidFront_ports.visual>

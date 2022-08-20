@@ -1,0 +1,17 @@
+<ASC019_Burlington_1944.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/usa/ship/cruiser/textures/ASC019_Burlington_1944_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/gameplay/usa/ship/cruiser/textures/ASC019_Burlington_1944_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/usa/ship/cruiser/textures/ASC019_Burlington_1944_a.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/usa/ship/cruiser/textures/ASC019_Burlington_1944_ao.tga	</Texture>
+	</property>
+</ASC019_Burlington_1944.mfm>

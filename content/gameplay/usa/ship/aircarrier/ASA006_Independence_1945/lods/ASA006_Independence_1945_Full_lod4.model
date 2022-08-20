@@ -1,0 +1,17 @@
+<ASA006_Independence_1945_Full_lod4.model>
+	<metaData>
+		<created_by>	a_ivanof	</created_by>
+		<created_on>	1381217488	</created_on>
+		<modified_by>	a_zotikov	</modified_by>
+		<modified_on>	1436531680	</modified_on>
+	</metaData>
+	<extent>	1000.000000	</extent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.742247 -0.489014 -6.468595	</min>
+		<max>	1.157825 2.249517 6.198478	</max>
+	</visibilityBox>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/ship/aircarrier/ASA006_Independence_1945/lods/ASA006_Independence_1945_Full_lod4	</nodefullVisual>
+</ASA006_Independence_1945_Full_lod4.model>

@@ -1,0 +1,17 @@
+<JSC014_Kitakami_1945.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/japan/ship/cruiser/textures/JSC014_Kitakami_1945_ao.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/gameplay/japan/ship/cruiser/textures/JSC014_Kitakami_1945_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/japan/ship/cruiser/textures/JSC014_Kitakami_1945_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/japan/ship/cruiser/textures/JSC014_Kitakami_1945_mg.tga	</Texture>
+	</property>
+</JSC014_Kitakami_1945.mfm>

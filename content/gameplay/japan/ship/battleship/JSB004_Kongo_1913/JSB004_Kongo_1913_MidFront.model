@@ -1,0 +1,14 @@
+<JSB004_Kongo_1913_MidFront.model>
+	<exporter>	1.6	</exporter>
+	<metaData>
+		<created_by>	a_ivanow	</created_by>
+		<created_on>	1431678932	</created_on>
+		<modified_by>	k_bugakov	</modified_by>
+		<modified_on>	1434025683	</modified_on>
+	</metaData>
+	<parent>	content/gameplay/japan/ship/battleship/JSB004_Kongo_1913/lods/JSB004_Kongo_1913_MidFront_lod1	</parent>
+	<extent>	8.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/japan/ship/battleship/JSB004_Kongo_1913/JSB004_Kongo_1913_MidFront	</nodefullVisual>
+</JSB004_Kongo_1913_MidFront.model>

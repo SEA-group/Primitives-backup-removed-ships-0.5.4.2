@@ -1,0 +1,17 @@
+<ASA013_Essex_hull.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	normalMap
+		<Texture>	content/gameplay/usa/ship/aircarrier/textures/ASA013_Essex_hull_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/usa/ship/aircarrier/textures/ASA013_Essex_hull_ao.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/usa/ship/aircarrier/textures/ASA013_Essex_hull_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/usa/ship/aircarrier/textures/ASA013_Essex_hull_a.tga	</Texture>
+	</property>
+</ASA013_Essex_hull.mfm>

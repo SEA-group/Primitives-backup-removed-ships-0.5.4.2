@@ -1,0 +1,18 @@
+<ASA024_Independence_1944_Bow.model>
+	<metaData>
+		<created_by>	a_gruzdev	</created_by>
+		<created_on>	1392728400	</created_on>
+		<modified_by>	a_zotikov	</modified_by>
+		<modified_on>	1436532328	</modified_on>
+	</metaData>
+	<extent>	6.000000	</extent>
+	<parent>	content/gameplay/usa/ship/aircarrier/ASA024_Independence_1944/lods/ASA024_Independence_1944_Bow_lod1	</parent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<visibilityBox>
+		<min>	-0.993020 -0.488970 2.908128	</min>
+		<max>	1.002301 1.205556 6.238584	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/ship/aircarrier/ASA024_Independence_1944/ASA024_Independence_1944_Bow	</nodefullVisual>
+</ASA024_Independence_1944_Bow.model>

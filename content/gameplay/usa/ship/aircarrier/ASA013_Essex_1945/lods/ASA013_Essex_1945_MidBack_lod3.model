@@ -1,0 +1,17 @@
+<ASA013_Essex_1945_MidBack_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<metaData>
+		<created_by>	a_ivanof	</created_by>
+		<created_on>	1363268893	</created_on>
+		<modified_by>	a_zotikov	</modified_by>
+		<modified_on>	1436360302	</modified_on>
+	</metaData>
+	<extent>	400.000000	</extent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-1.479403 -0.802698 -3.209789	</min>
+		<max>	1.116562 1.648473 2.532294	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/ship/aircarrier/ASA013_Essex_1945/lods/ASA013_Essex_1945_MidBack_lod3	</nodefullVisual>
+</ASA013_Essex_1945_MidBack_lod3.model>

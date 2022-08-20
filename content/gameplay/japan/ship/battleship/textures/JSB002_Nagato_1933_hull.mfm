@@ -1,0 +1,17 @@
+<JSB002_Nagato_1933_hull.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	normalMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB002_Nagato_1933_hull_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB002_Nagato_1933_hull_ao.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB002_Nagato_1933_hull_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/japan/ship/battleship/textures/JSB002_Nagato_1933_hull_a.tga	</Texture>
+	</property>
+</JSB002_Nagato_1933_hull.mfm>

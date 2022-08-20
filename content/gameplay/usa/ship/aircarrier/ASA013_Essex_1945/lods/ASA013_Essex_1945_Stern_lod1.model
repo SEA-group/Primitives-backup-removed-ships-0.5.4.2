@@ -1,0 +1,18 @@
+<ASA013_Essex_1945_Stern_lod1.model>
+	<castsShadow>	true	</castsShadow>
+	<metaData>
+		<created_by>	a_ivanof	</created_by>
+		<created_on>	1370949849	</created_on>
+		<modified_by>	a_zotikov	</modified_by>
+		<modified_on>	1436360302	</modified_on>
+	</metaData>
+	<extent>	20.000000	</extent>
+	<parent>	content/gameplay/usa/ship/aircarrier/ASA013_Essex_1945/lods/ASA013_Essex_1945_Stern_lod2	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-1.331431 -0.639938 -1.400802	</min>
+		<max>	1.354731 2.076921 1.960739	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/ship/aircarrier/ASA013_Essex_1945/lods/ASA013_Essex_1945_Stern_lod1	</nodefullVisual>
+</ASA013_Essex_1945_Stern_lod1.model>

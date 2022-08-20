@@ -1,0 +1,18 @@
+<ASA006_Independence_1945_MidFront.model>
+	<metaData>
+		<created_by>	a_ivanof	</created_by>
+		<created_on>	1381217503	</created_on>
+		<modified_by>	a_zotikov	</modified_by>
+		<modified_on>	1436531680	</modified_on>
+	</metaData>
+	<extent>	5.500000	</extent>
+	<parent>	content/gameplay/usa/ship/aircarrier/ASA006_Independence_1945/lods/ASA006_Independence_1945_MidFront_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-1.037872 -0.573485 -1.643248	</min>
+		<max>	1.318118 2.313696 4.106009	</max>
+	</visibilityBox>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/ship/aircarrier/ASA006_Independence_1945/ASA006_Independence_1945_MidFront	</nodefullVisual>
+</ASA006_Independence_1945_MidFront.model>

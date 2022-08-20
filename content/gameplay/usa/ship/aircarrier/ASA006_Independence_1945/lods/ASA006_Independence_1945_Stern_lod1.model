@@ -1,0 +1,18 @@
+<ASA006_Independence_1945_Stern_lod1.model>
+	<metaData>
+		<created_by>	a_ivanof	</created_by>
+		<created_on>	1381217530	</created_on>
+		<modified_by>	a_zotikov	</modified_by>
+		<modified_on>	1436531680	</modified_on>
+	</metaData>
+	<extent>	15.000000	</extent>
+	<parent>	content/gameplay/usa/ship/aircarrier/ASA006_Independence_1945/lods/ASA006_Independence_1945_Stern_lod2	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-1.046649 -0.491845 -1.159614	</min>
+		<max>	1.034177 1.002087 1.472217	</max>
+	</visibilityBox>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/ship/aircarrier/ASA006_Independence_1945/lods/ASA006_Independence_1945_Stern_lod1	</nodefullVisual>
+</ASA006_Independence_1945_Stern_lod1.model>

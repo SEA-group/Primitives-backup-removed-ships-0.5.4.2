@@ -1,0 +1,17 @@
+<JSA036_Taiho_1945_Deck.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/japan/ship/aircarrier/textures/JSA036_Taiho_1945_Deck_ao.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/gameplay/japan/ship/aircarrier/textures/JSA036_Taiho_1945_Deck_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/japan/ship/aircarrier/textures/JSA036_Taiho_1945_Deck_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/japan/ship/aircarrier/textures/JSA036_Taiho_1945_Deck_a.tga	</Texture>
+	</property>
+</JSA036_Taiho_1945_Deck.mfm>
